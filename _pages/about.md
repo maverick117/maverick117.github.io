@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Homepage for Jianzhong Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my website! My name is Jianzhong Liu, I am a doctoral student at Tsinghua University, currently majoring in Software Engineering under the mentorship of Professor Yu Jiang.
+My field of research is software security, in which I mainly target fuzzing.
+
+¡Bienvenidos a mi sitio web! Mi nombre es Jianzhong Liu, soy estudiante de doctorado en la Universidad de Tsinghua y actualmente me especializo en Ingeniería de Software bajo la tutela del profesor Yu Jiang.
+Mi campo de investigación es la seguridad del software, en el que me enfoco principalmente en fuzzing.
+
+Добро пожаловать на мой сайт! Меня зовут Цзяньчжун Лю, я учусь в докторантуре Университета Цинхуа, в настоящее время изучаю программную инженерию под руководством профессора Ю Цзяна.
+Моя область исследований — безопасность программного обеспечения, в которой я в основном занимаюсь фаззингом.
+
+<!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -48,3 +57,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
