@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Software Engineering, Tsinghua University, 2025 (expected)
+* M.S. in Computer Science and Technology, ShanghaiTech University, 2021
+* B.S. in Computer Science and Technology, ShanghaiTech University, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2018 - Feb. 2019: Student Intern
+  * Bytedance AI Lab
+  * Duties included: Middleware Fuzzing
+  * Supervisor: Professor Hao Chen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Systems Design and Programming
+* Operating System Development and Testing
+* Embedded Systems Testing
+* Programming Langages
+  * Systems Languages: C, Rust, Golang
+  * Interpreted Languages: Python
+  * System Scripting: Bash/Ksh
+* Natural Languages
+  * Bilingual in Chinese (Mandarin) and English
+  * Rudimentary Spanish and Russian
 
 Publications
 ======
@@ -56,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for ACM TOSEM
