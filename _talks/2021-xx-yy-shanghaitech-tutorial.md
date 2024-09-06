@@ -2,9 +2,9 @@
 title: "Tutorial on Fuzzing"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2021-03-01-tutorial-1
+permalink: /talks/2021-xx-yy-shanghaitech-tutorial
 venue: "School of Information Science and Technology, ShanghaiTech University"
-date: 2013-03-01
+date: 2021-xx-yy
 location: "Shanghai, China"
 ---
 
